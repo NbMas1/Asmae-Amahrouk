@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asmae-Amahrouk
-- 👀 I’m interested in web developpment
-- 🌱 I’m currently learning front-enf developpment
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web developpment & Cybersecurity
+- 🌱 I’m currently learning cybersecurity 
+- 💞️ I’m looking to collaborate  ...
 - 📫 How to reach me ...
 
 <!---
